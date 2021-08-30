@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "yapf",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#008f00",
+        "titleBar.activeForeground": "#ffff"
+    }
+}
